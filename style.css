@@ -1,0 +1,35 @@
+#hello{
+    padding:20px;
+
+}
+
+#meme1{
+    margin-top: 20px;
+
+}
+#meme2{
+margin-top:20pxpx;
+
+}
+
+#meme3{
+margin-top:20px;
+}
+
+div{
+    height:200px;
+    width:200px;
+    text-align: center;
+}
+
+*{
+    background-color:orangered;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}
